@@ -171,4 +171,11 @@
   		</plugin>
   	</plugins>
   </reporting>
+  
+  <scm>
+  	<connection>scm:git:https://github.com/reveszgergo/movie-finder.git</connection>
+  	<developerConnection>scm:git:https://github.com/reveszgergo/movie-finder.git</developerConnection>
+  	<url>https://github.com/reveszgergo/movie-finder</url>
+  </scm>
+  
 </project>

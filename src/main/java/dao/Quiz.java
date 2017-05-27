@@ -1,13 +1,12 @@
 package dao;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -39,14 +38,15 @@ public class Quiz {
 	 */
 	public MultipleChoiceQuestion getMultipleQuestion(){
 		ClassLoader classLoader = getClass().getClassLoader();
-		File f = new File(classLoader.getResource("multiplechoicequestions.json").getFile());
 		
 		try {
-			FileReader fr = new FileReader(f);
 			Gson gson = new Gson();
 			
-			MultipleChoiceQuestion multiplechoicequestions[] = gson.fromJson(fr, MultipleChoiceQuestion[].class);
-			fr.close();
+			InputStream in = classLoader.getResourceAsStream("multiplechoicequestions.json");
+			
+			String input = IOUtils.toString(in, "UTF-8");
+			
+			MultipleChoiceQuestion multiplechoicequestions[] = gson.fromJson(input, MultipleChoiceQuestion[].class);
 			Random rand = new Random();
 			int randomNum = rand.nextInt(50) + 0;
 			while(randomNums.contains(randomNum)){
@@ -55,9 +55,6 @@ public class Quiz {
 			randomNums.add(randomNum);
 			return multiplechoicequestions[randomNum];
 			
-		} catch (FileNotFoundException e) {
-			logger.error("Kivétel: ", e);
-			return new MultipleChoiceQuestion();
 		} catch (IOException e) {
 			logger.error("Kivétel: ", e);
 			return new MultipleChoiceQuestion();
@@ -71,14 +68,15 @@ public class Quiz {
 	 */
 	public SimpleQuestion getSimpleQuestion(){
 		ClassLoader classLoader = getClass().getClassLoader();
-		File f = new File(classLoader.getResource("simplequestions.json").getFile());
 		
 		try {
-			FileReader fr = new FileReader(f);
 			Gson gson = new Gson();
 			
-			SimpleQuestion simplequestions[] = gson.fromJson(fr, SimpleQuestion[].class);
-			fr.close();
+			InputStream in = classLoader.getResourceAsStream("simplequestions.json");
+			
+			String input = IOUtils.toString(in, "UTF-8");
+			
+			SimpleQuestion simplequestions[] = gson.fromJson(input, SimpleQuestion[].class);
 			Random rand = new Random();
 			int randomNum = rand.nextInt(50) + 0;
 			while(randomNums.contains(randomNum)){
@@ -87,9 +85,6 @@ public class Quiz {
 			randomNums.add(randomNum);
 			return simplequestions[randomNum];
 			
-		} catch (FileNotFoundException e) {
-			logger.error("Kivétel: ", e);
-			return new SimpleQuestion();
 		} catch (IOException e) {
 			logger.error("Kivétel: ", e);
 			return new SimpleQuestion();
