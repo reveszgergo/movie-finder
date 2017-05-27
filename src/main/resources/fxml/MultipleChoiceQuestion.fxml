@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.QuizController">
+   <children>
+      <Label fx:id="question" alignment="CENTER" layoutX="56.0" layoutY="70.0" prefHeight="24.0" prefWidth="537.0" text="Label" />
+      <Button fx:id="answer1" layoutX="128.0" layoutY="120.0" mnemonicParsing="false" onAction="#answer1" prefHeight="50.0" prefWidth="392.0" />
+      <Button fx:id="answer2" layoutX="128.0" layoutY="190.0" mnemonicParsing="false" onAction="#answer2" prefHeight="50.0" prefWidth="392.0" />
+      <Button fx:id="answer3" layoutX="128.0" layoutY="260.0" mnemonicParsing="false" onAction="#answer3" prefHeight="50.0" prefWidth="392.0" />
+      <Button fx:id="answer4" layoutX="128.0" layoutY="330.0" mnemonicParsing="false" onAction="#answer4" prefHeight="50.0" prefWidth="392.0" />
+      <Label layoutX="14.0" layoutY="14.0" text="KÉRDÉS">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="579.0" layoutY="449.0" text="1 pont">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

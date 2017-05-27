@@ -1,0 +1,301 @@
+[
+  {
+    "question": "Három film kapott 11 Oscar-díjat. Melyik kapott kevesebbet az alábbiak közül?", 
+    "c1": "A Gyűrűk Ura: A király visszatér", "c2": "Ben-Hur", "c3": "Elfújta a szél", "c4": "Titanic", 
+    "correctAnswer": "Elfújta a szél"
+  },
+  
+  {
+    "question": "Nyolcadik utas a .....?", 
+    "c1": "potyautas", "c2": "Józsi bá", "c3": "halál", "c4": "benzinkutas", 
+    "correctAnswer": "halál"
+  },
+  
+  {
+    "question": "Hány Die Hard film van?", 
+    "c1": "7", "c2": "5", "c3": "3", "c4": "4", 
+    "correctAnswer": "5"
+  },
+  
+  {
+    "question": "Hány része van a Rocky filmeknek?", 
+    "c1": "4", "c2": "5", "c3": "6", "c4": "7", 
+    "correctAnswer": "6"
+  },
+  
+  {
+    "question": "Melyik Csillagok háborúja film jelent meg 1983-ban?", 
+    "c1": "A klónok támadása", "c2": "Egy új remény", "c3": "A Birodalom visszavág", "c4": "A jedi visszatér", 
+    "correctAnswer": "A jedi visszatér"
+  },
+  
+  {
+    "question": "Melyik film zenéjét nem James Horner szerezte?", 
+    "c1": "Titanic", "c2": "Trója", "c3": "A rettenthetetlen", "c4": "Egy kosaras naplója", 
+    "correctAnswer": "Egy kosaras naplója"
+  },
+  
+  {
+    "question": "Melyik nem klasszikus westernfilm?", 
+    "c1": "A lovakat lelövik, ugye?", "c2": "A jó, a rossz és a csúf", "c3": "Délidőben", "c4": "Egy maroknyi dollárért", 
+    "correctAnswer": "A lovakat lelövik, ugye?"
+  },
+  
+  {
+    "question": "Melyik címmel nem készült Piedone film ?", 
+    "c1": "Piedone Egyiptomban", "c2": "Piedone Afrikában", "c3": "Piedone Peruban", "c4": "Piedone Hongkongban", 
+    "correctAnswer": "Piedone Peruban"
+  },
+  
+  {
+    "question": "Melyik film nem Stephen King műve alapján készült?", 
+    "c1": "Ragyogás", "c2": "A remény rabjai", "c3": " Halálsoron", "c4": "Száll a kakukk fészkére", 
+    "correctAnswer": "Száll a kakukk fészkére"
+  },
+  
+  {
+    "question": "Ki szerezte a Volt egyszer egy Vadnyugat, a Jó, a Rossz, és a Csúf, valamint a Nevem Senki című film zenéit?", 
+    "c1": "Ennio Morricone", "c2": "John Williams", "c3": "Nino Rota", "c4": "Paul McCartney", 
+    "correctAnswer": "Ennio Morricone"
+  },
+  
+  {
+    "question": "Kinek az élete ihlette a Rettenthetetlen című filmet ?", 
+    "c1": "John McGregor", "c2": "John Fitzpatrick", "c3": "William Wallace", "c4": "Josh Stone", 
+    "correctAnswer": "William Wallace"
+  },
+  
+  {
+    "question": "Ki rendezte a Terminator első részét?", 
+    "c1": "Arnold Schwarzenegger", "c2": "James Cameron", "c3": "Steven Spielberg", "c4": "Linda Hamilton", 
+    "correctAnswer": "James Cameron"
+  },
+  
+  {
+    "question": "Kik a South Park készítői?", 
+    "c1": "Paul Stanley és Peter Criss", "c2": "Trey Parker és Matt Stone", "c3": "Eric Cartman és Stan Marsh", "c4": "Mark Knopfler és Eric Clapton", 
+    "correctAnswer": "Trey Parker és Matt Stone"
+  },
+  
+  {
+    "question": "Melyik nem Kevin Smith által írt és rendezett film?", 
+    "c1": "Jay és Néma Bob visszavág", "c2": "Dogma", "c3": "Sikoly 3.", "c4": "Képtelen képregény", 
+    "correctAnswer": "Sikoly 3."
+  },
+  
+  {
+    "question": "Ki rendezte a Száll a kakukk fészkére című filmet?", 
+    "c1": "Steven Spielberg", "c2": "Frederico Fellini", "c3": "Roman Polanski", "c4": "Milos Forman", 
+    "correctAnswer": "Milos Forman"
+  },
+  
+  {
+    "question": "Mi volt Quentin Tarantino első önálló filmje?", 
+    "c1": "Ponyvaregény", "c2": "Kill Bill", "c3": "Jackie Brown", "c4": "Kutyaszorítóban", 
+    "correctAnswer": "Kutyaszorítóban"
+  },
+  
+  {
+    "question": "Ki rendezte a Keresztapa trilógiát?", 
+    "c1": "Guillermo del Toro", "c2": "Sergio Leone", "c3": "Francis Ford Coppola", "c4": "Guy Ritchie", 
+    "correctAnswer": "Francis Ford Coppola"
+  },
+  
+  {
+    "question": "Melyik film nem Ridley Scott rendezés?", 
+    "c1": "Szárnyas fejvadász", "c2": "Gladiátor", "c3": "Nyolcadik utas:a halál", "c4": "Terminátor", 
+    "correctAnswer": "Terminátor"
+  },
+  
+  {
+    "question": "Melyik nem Quentin Tarantino film?", 
+    "c1": "Kill Bill", "c2": "Négy szoba", "c3": "Pánikszoba", "c4": "Ponyvaregény", 
+    "correctAnswer": "Pánikszoba"
+  },
+  
+  {
+    "question": "Ki találta ki James Bond karakterét?", 
+    "c1": "Ian Fleming", "c2": "Sean Connery", "c3": "George Lazenby", "c4": "Timothy Dalton", 
+    "correctAnswer": "Ian Fleming"
+  },
+  
+  {
+    "question": "Melyik filmben nem játszott Mel Gibson?", 
+    "c1": "Passió", "c2": "Halálos fegyver", "c3": "Összeesküvés-elmélet", "c4": "Visszavágó", 
+    "correctAnswer": "Passió"
+  },
+  
+  {
+    "question": "Melyik filmben nem szerepel Brad Pitt?", 
+    "c1": "Trója", "c2": "Interjú a vámpírral", "c3": "Veszedelmes viszonyok", "c4": "Harcosok klubja", 
+    "correctAnswer": "Veszedelmes viszonyok"
+  },
+  
+  {
+    "question": "Ki játszotta a főhőst az első Batman filmben?", 
+    "c1": "Val Kilmer", "c2": "Michael Keaton", "c3": "George Clooney", "c4": "Jack Nicholson", 
+    "correctAnswer": "Michael Keaton"
+  },
+  
+  {
+    "question": "Ki játszotta Luke Skywalkert?", 
+    "c1": "Mark Hamill", "c2": "Viggo Mortensen", "c3": "Clint Eastwood", "c4": "David Hasselhoff", 
+    "correctAnswer": "Mark Hamill"
+  },
+  
+  {
+    "question": "Melyik nem Bud Spencer és Terence Hill közös filmje?", 
+    "c1": "Én a vizilovakkal vagyok!", "c2": "Kincs, ami nincs", "c3": "Bűnvadászok", "c4": "Piedone Afrikában", 
+    "correctAnswer": "Piedone Afrikában"
+  },
+  
+  {
+    "question": "Kicsoda Robert de Niro ellenfele a Szemtől szemben című akciófilmben?", 
+    "c1": "Colin Farell", "c2": "Val Kilmer", "c3": "Edward Norton", "c4": "Al Pacino", 
+    "correctAnswer": "Al Pacino"
+  },
+  
+  {
+    "question": "Ki volt Batman a Sötét Lovagban?", 
+    "c1": "Christian Bale", "c2": "Harvey Dent", "c3": "Michael Caine", "c4": "Daniel Blaine", 
+    "correctAnswer": "Christian Bale"
+  },
+  
+  {
+    "question": "Melyik filmben nem szerepelt Anthony Hopkins?", 
+    "c1": "Bizonyítás", "c2": "Nagy Sándor, a hódító", "c3": "A tégla", "c4": "A király összes embere", 
+    "correctAnswer": "A tégla"
+  },
+  
+  {
+    "question": "Ki játszotta Aragornt a Gyűrűk Ura filmekben?", 
+    "c1": "Elijah Wood", "c2": "Viggo Mortensen", "c3": "Ian McKellen", "c4": "Sean Bean", 
+    "correctAnswer": "Viggo Mortensen"
+  },
+  
+  {
+    "question": "Melyik nem francia színész?", 
+    "c1": "Gerard Depardieu", "c2": "Jean Reno", "c3": "Mel Gibson", "c4": "Louis De Funes", 
+    "correctAnswer": "Mel Gibson"
+  },
+  
+  {
+    "question": "Melyik az a színész, amelyik szinte egyik filmjét se éli túl?", 
+    "c1": "Sean Bean", "c2": "Jean Reno", "c3": "Mel Gibson", "c4": "Brad Pitt", 
+    "correctAnswer": "Sean Bean"
+  },
+  
+  {
+    "question": "Mi gyengíti Superman-t?", 
+    "c1": "gyémánt", "c2": "kriptonit", "c3": "smaragd", "c4": "hidrogén", 
+    "correctAnswer": "kriptonit"
+  },
+  
+  {
+    "question": "Mi a Hegylakó jelmondata?", 
+    "c1": "Egy gyűrű mind felett!", "c2": "Csak egy maradhat!", "c3": "Visszatérek!", "c4": "Egyetértek!", 
+    "correctAnswer": "Csak egy maradhat!"
+  },
+  
+  {
+    "question": "Ki játssza a Nevem: Senki főszerepét?", 
+    "c1": "Bud Spencer", "c2": "Hugh Laurie", "c3": "Terence Hill", "c4": "Clint Eastwood", 
+    "correctAnswer": "Terence Hill"
+  },
+  
+  {
+    "question": "Melyik az a film amelyik nem Vietnamban játszódik?", 
+    "c1": "A Szakasz", "c2": "Apokalipszis most", "c3": "Katonák voltunk", "c4": "A sólyom végveszélyben", 
+    "correctAnswer": "A sólyom végveszélyben"
+  },
+  
+  {
+    "question": "Mi az űrhajó neve a Nyolcadik utas a halál című filmben?", 
+    "c1": "Challenger", "c2": "Millenium Falcon", "c3": "Nostromo", "c4": "Enterprise", 
+    "correctAnswer": "Nostromo"
+  },
+  
+  {
+    "question": "Hogy hívják Davy Jones hajóját?", 
+    "c1": "Rettenthetetlen", "c2": "Fekete Gyöngy", "c3": "Bolygó Hollandi", "c4": "Victory", 
+    "correctAnswer": "Bolygó Hollandi"
+  },
+  
+  {
+    "question": "Melyik városban harcolt Batman a gonosz ellen?", 
+    "c1": "Gotham City", "c2": "Budapest", "c3": "Sin City", "c4": "Metropolis", 
+    "correctAnswer": "Gotham City"
+  },
+  
+  {
+    "question": "Hány tagja volt a Gyűrű Szövetségének?", 
+    "c1": "1", "c2": "3", "c3": "6", "c4": "9", 
+    "correctAnswer": "9"
+  },
+  
+  {
+    "question": "Melyik film műfaja nem vígjáték?", 
+    "c1": "A kocka", "c2": "Brian élete", "c3": "Ace Ventura: Az állati nyomozó", "c4": "Taxi", 
+    "correctAnswer": "A kocka"
+  },
+  
+  {
+    "question": "Melyik filmért kapott Oscar díjat Robert De Niro?", 
+    "c1": "Dühöngő bika", "c2": "Taxisofőr", "c3": "Ébredések", "c4": "Cape Fear - A rettegés foka", 
+    "correctAnswer": "Dühöngő bika"
+  },
+  
+  {
+    "question": "Melyik film nyerte a legtöbb Oscar-díjat az alábbiak közül?", 
+    "c1": "A Keresztapa", "c2": "Ben-Hur", "c3": "Schindler listája", "c4": "Psycho", 
+    "correctAnswer": "Ben-Hur"
+  },
+  
+  {
+    "question": "Melyik város filmfesztiváljának fődíja az Arany Medve?", 
+    "c1": "Karlovy Vary", "c2": "Velence", "c3": "Cannes", "c4": "Berlin", 
+    "correctAnswer": "Berlin"
+  },
+  
+  {
+    "question": "Melyik volt az a film, ami először győzött az Oscar-díj egész estés animációs film kategóriájában 2001-ben?", 
+    "c1": "Shrek", "c2": "Toy Story", "c3": "Némó nyomában", "c4": "Jégkorszak", 
+    "correctAnswer": "Shrek"
+  },
+  
+  {
+    "question": "Az alábbiak közül ki kapott a legtöbbször Oscar-díjat?", 
+    "c1": "Marlon Brando", "c2": "Jack Nicholson", "c3": "Tom Hanks", "c4": "Robert De Niro", 
+    "correctAnswer": "Jack Nicholson"
+  },
+  
+  {
+    "question": "Szabó István melyik filmje kapott Oscar díjat?", 
+    "c1": "Hanussen", "c2": "Csodálatos Júlia", "c3": "A napfény íze", "c4": "Mephisto", 
+    "correctAnswer": "Mephisto"
+  },
+  
+  {
+    "question": "Milyen filmes díj nincs?", 
+    "c1": "Golden Globe díj", "c2": "Oscar-díj", "c3": "Platina Alma-díj", "c4": "Arany Málna-díj", 
+    "correctAnswer": "Platina Alma-díj"
+  },
+  
+  {
+    "question": "Az alábbiak közül milyen Oscar-díjat nyert már Clint Eastwood?", 
+    "c1": "legjobb férfi főszereplő", "c2": "legjobb férfi mellékszereplő", "c3": "legjobb rendező", "c4": "legjobb smink", 
+    "correctAnswer": "legjobb rendező"
+  },
+  
+  {
+    "question": "Mit ábrázol az Oscar-díj?", 
+    "c1": "Szárnyas nőalakot", "c2": "Kardot fogó lovagot", "c3": "Ülő női alakot", "c4": "Egy arannyal befújt málnát", 
+    "correctAnswer": "Kardot fogó lovagot"
+  },
+  
+  {
+    "question": "Melyik város nem a filmfesztiváljáról ismert?", 
+    "c1": "Párizs", "c2": "Velence", "c3": "Cannes", "c4": "Karlovy Vary", 
+    "correctAnswer": "Párizs"
+  }
+ ]
