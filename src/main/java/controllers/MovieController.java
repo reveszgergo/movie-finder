@@ -84,8 +84,8 @@ public class MovieController {
 	@FXML
 	private void changeMyScore(){
 		try{
-			if(!newMyScore.getText().isEmpty() && Integer.parseInt(newMyScore.getText()) > 1 
-					&& Integer.parseInt(newMyScore.getText()) < 10){
+			if(!newMyScore.getText().isEmpty() && Integer.parseInt(newMyScore.getText()) > 0 
+					&& Integer.parseInt(newMyScore.getText()) < 11){
 				searchedMovie.setMyscore(newMyScore.getText());
 				updateScene();
 				movie.updateMyRating(searchedMovie.getTitle(), newMyScore.getText());
