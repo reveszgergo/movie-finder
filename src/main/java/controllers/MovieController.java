@@ -46,6 +46,8 @@ public class MovieController {
 	private ImageView poster;
 	@FXML
 	private TextField newMyScore;
+	@FXML
+	private Label error;
 	
 	@FXML
 	private void initialize(){
@@ -64,14 +66,17 @@ public class MovieController {
 				channel.configureBlocking(false); 
 				channel.connect(socketAddress);
 				}catch(UnresolvedAddressException e){
+					error.setText("Nincs internet kapcsolat.");;
 					logger.error("Kivétel: ", e);
 					return;
 				}
 				searchedMovie = movie.getMovie(movieTitle.getText());
 				if(searchedMovie == null){
-					logger.info("Nincs beírva film.");
+					error.setText("Nincs találat.");
+					logger.info("Nincs találat.");
 				}else{
 					updateScene();
+					error.setText("");
 					logger.info("Film adatai megjelenítve.");
 				}
 			}		

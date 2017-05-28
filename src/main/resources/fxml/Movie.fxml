@@ -132,5 +132,6 @@
       <ImageView fx:id="poster" fitHeight="237.0" fitWidth="200.0" layoutX="21.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true" />
       <TextField fx:id="newMyScore" layoutX="343.0" layoutY="394.0" prefHeight="25.0" prefWidth="32.0" />
       <Button layoutX="382.0" layoutY="394.0" mnemonicParsing="false" onAction="#changeMyScore" text="Saját pontszám megváltoztatása" />
+      <Label fx:id="error" layoutX="247.0" layoutY="449.0" textFill="#ee0c0c" />
    </children>
 </AnchorPane>
