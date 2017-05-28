@@ -1,5 +1,3 @@
-//TODO scm tag belerakása a pom-ba
-//TODO egységtesztek a MovieDAO-ra
 package main;
 
 import java.io.IOException;
