@@ -1,6 +1,6 @@
 package models;
 
-/*
+/**
  * Egy filmet reprezentáló osztály.
  */
 public class Movie {
@@ -73,7 +73,7 @@ public class Movie {
 		return rated;
 	}
 
-	/*
+	/**
 	 * Visszaadja a film hosszát.
 	 * 
 	 * @return a film hossza
@@ -82,7 +82,7 @@ public class Movie {
 		return runtime;
 	}
 
-	/*
+	/**
 	 * Visszaadja a film műfaját.
 	 * 
 	 * @return a film műfaja
@@ -91,7 +91,7 @@ public class Movie {
 		return genre;
 	}
 
-	/*
+	/**
 	 * Visszaadja a film rendezőjét.
 	 * 
 	 * @return a film rendezője
@@ -100,7 +100,7 @@ public class Movie {
 		return director;
 	}
 
-	/*
+	/**
 	 * Visszaadja a film szereplőit.
 	 * 
 	 * @return a film szereplői
